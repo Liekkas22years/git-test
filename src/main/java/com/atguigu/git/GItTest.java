@@ -10,5 +10,6 @@ public class GItTest {
         System.out.println("test2");
         System.out.println("666");
         System.out.println("fly");
+        System.out.println("hello hot-fix");
     }
 }
