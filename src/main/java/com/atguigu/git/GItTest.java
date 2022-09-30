@@ -12,5 +12,6 @@ public class GItTest {
         System.out.println("fly");
         System.out.println("hello hot-fix");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
