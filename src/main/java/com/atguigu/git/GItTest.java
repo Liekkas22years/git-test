@@ -9,5 +9,6 @@ public class GItTest {
         System.out.println("test");
         System.out.println("test2");
         System.out.println("666");
+        System.out.println("fly");
     }
 }
